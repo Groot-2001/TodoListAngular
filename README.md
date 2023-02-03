@@ -9,7 +9,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Usage (⌐■_■)
 1) clone this repository
 ```
-    https://github.com/Groot-2001/Groot-2001.github.io.git
+    git clone https://github.com/Groot-2001/Groot-2001.github.io.git
 ```
 2) Run following command
 ```
