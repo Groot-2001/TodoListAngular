@@ -1,0 +1,21 @@
+::ng-deep html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgba(2, 26, 105, 0.849);
+  }
+.wrapper{
+    background-color: rgba(2, 26, 105, 0.849);
+}
+
+.navbar{
+    background-color:  rgba(2, 26, 105, 0.849);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+app-todos{
+    padding: 0;
+}
